@@ -44,7 +44,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/fullstack-developer-toolkit.git
+git clone https://github.com/MintoraStudio/fullstack-developer-toolkit.git
 cd fullstack-developer-toolkit
 Pick the folder that fits your need — whether you're styling a page, setting up backend routes, or deploying with Docker.
 
