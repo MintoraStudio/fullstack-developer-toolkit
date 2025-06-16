@@ -4,31 +4,33 @@ A complete full-stack developer toolkit including UI components, backend snippet
 A ready-to-use resource hub for developers — including frontend UI components, backend code snippets, DevOps tools, and design assets. Whether you're building personal projects, client work, or MVPs, this toolkit speeds up your workflow.
 
 📁 Project Structure
-arduino
-Copy
-Edit
-.
-├── templates/          
-│   ├── portfolio-site/
-│   └── mern-starter/
-├── ui-components/      
-│   ├── navbars/
-│   ├── hero-sections/
-│   └── footers/
-├── backend-snippets/   
-│   ├── auth/
-│   ├── CRUD/
-│   └── error-handling/
-├── devops/             
-│   ├── Dockerfile
-│   ├── nginx/
-│   └── ci-cd/
-├── design-assets/      
-│   ├── figma/
-│   ├── fonts/
-│   └── wireframes/
-└── docs/               
-    └── setup-guides.md
+templates/
+
+portfolio-site/ – Personal website starter
+
+mern-starter/ – MERN stack boilerplate
+
+ui-components/
+
+navbars/, hero-sections/, footers/ – Ready-to-use frontend blocks
+
+backend-snippets/
+
+auth/, CRUD/, error-handling/ – Common backend logic
+
+devops/
+
+Dockerfile, nginx/, ci-cd/ – Deployment tools and scripts
+
+design-assets/
+
+figma/, fonts/, wireframes/ – Visual design resources
+
+docs/
+
+setup-guides.md – Usage and onboarding documentation
+
+
 🚀 Features
 🔧 Pre-built starter templates (Portfolio, MERN)
 
